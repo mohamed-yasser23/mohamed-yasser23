@@ -1,5 +1,5 @@
 <h1 align="left">⭐ about me </h1>
-<p style ="color: green">Hello, My name is Mohamed, I’m a software engineering student at
+<p style ="color:green;">Hello, My name is Mohamed, I’m a software engineering student at
 Cairo university.
 I am a passionate developer and I like learning all about what’s new and
 useful around me</p>
