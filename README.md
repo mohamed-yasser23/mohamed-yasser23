@@ -1,6 +1,6 @@
 <h1 align="left">⭐ about me </h1>
-<p style ="color:blue;">Hello, My name is Mohamed, I’m a software engineering student at
-Cairo university.<br>
+<p style="color:red;">>Hello, My name is Mohamed, I’m a software engineering student at
+Cairo University.<br>
 I am a passionate developer and I like learning all about what’s new and
 useful around me</p>
 
